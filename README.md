@@ -13,11 +13,6 @@ Disclaimer: This is the Alpha version of this software and some features may not
 
 Authors
 -------
-- Yongye Li
-- Mary Campbell
-- Arjun Sivakumar
-- Joseph Principe
-- Cristian Pina Bravo
 - Zijie Huang
 
 Version
