@@ -1,0 +1,50 @@
+Installation Instructions for Chess Program
+===========================================
+
+1. Prerequisites
+----------------
+- Make sure you have a C compiler (such as GCC) installed on your system.
+- Make sure you have Make utility installed on your system.
+
+2. Download the Source Code
+---------------------------
+- Download and extract the project source code to a directory of your choice.
+- Type tar -xvzf Chess_Alpha_src.tar.gz, then cd Chess_Alpha_src
+
+
+3. Compilation
+--------------
+- Open a terminal/command prompt and navigate to the root directory of the program.
+- Run the following command to compile the source code:
+
+  make
+
+  This command will generate an executable file named 'chess' in the 'bin' folder.
+
+4. Running the Program
+----------------------
+- To run the compiled program, use the following command from the project root directory:
+
+  make run
+
+5. Testing the Program
+----------------------
+- To test the program using the provided 'test_input.txt' file, run the following command:
+
+  make test
+
+  This will execute the 'chess' program with the input from 'test_input.txt' and generate a 'test_output.txt' file in the 'src' folder.
+
+6. Cleaning Up
+--------------
+- To remove the generated object files (*.o) and the executable, run the following command:
+
+  make clean
+
+7. Creating a Source Code Tarball
+---------------------------------
+- To create a tarball of the source code files (*.c and *.h) located in the 'src' folder, run the following command:
+
+  make tar
+
+  This will create a file named 'chess_source_code.tar.gz' in the 'src' folder.
