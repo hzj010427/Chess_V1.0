@@ -46,6 +46,5 @@ General Instructions
 1. Select Game Mode: You can choose to play against the computer or against another player. If you select the "Player vs. Player" mode, you will need to share the computer with your opponent.
 2. Start Playing: Once you have selected the game mode, difficulty level, and customized the board and pieces, you can start playing. The game will begin, and you can make your moves.
 3. Move Hints: If you are having trouble deciding on your next move, you can use the move hint feature. The computer will suggest a move based on the current board position.
-4. Save and Load Games: You can save your current game and come back to it later. You can also load a previously saved game.
 
 Note: For more detailed instructions, please refer to the User Manual. For more installation instructions, please refer to the INSTALL.txt.
